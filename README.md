@@ -10,8 +10,7 @@
  
  - the webdrivers are not included in the repository; you need to download it from to the project root;
  
- you can find some browser drivers here:
- 
+ - you can find some browser drivers here:
  
     [Chrome](http://chromedriver.storage.googleapis.com/index.html)
       
