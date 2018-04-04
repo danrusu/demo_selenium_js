@@ -2,7 +2,7 @@
 
 ### Use WebdriverJS (npm selenium-webdriver) to make a simple demo for automating web pages testing.
 
-#### Design
+#### Design details
 
  - use POM for web page mapping;
  
@@ -19,3 +19,14 @@
     [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_11_1.html)
       
     [Internet Explorer](http://selenium-release.storage.googleapis.com/index.html)
+
+#### Usage - automate the login form from http://danrusu.ro/uiTest/uiTest.html
+
+    git clone https://github.com/danrusu/demo_selenium_js.git
+
+    cd demo_selenium_js
+
+    npm install
+
+    npm test
+
