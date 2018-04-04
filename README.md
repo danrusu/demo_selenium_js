@@ -30,3 +30,12 @@
 
     npm start
 
+#### Environment
+
+    npm 5.6.0
+
+    node v8.9.4
+
+    chai 4.1.2
+
+    selenium-webdriver 4.0.0-alpha.1
