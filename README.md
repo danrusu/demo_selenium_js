@@ -1,4 +1,4 @@
-# demo_selenium_js
+# Demo Selenium JS
 
 ### Use WebdriverJS (npm selenium-webdriver) to make a simple demo for automating web pages testing.
 
