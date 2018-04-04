@@ -1,0 +1,16 @@
+{
+  "name": "demo_selenium_js",
+  "version": "1.0.0",
+  "description": "Use WebdriverJS (npm selenium-webdriver) to make a simple demo for automating web pages testing.",
+  "main": "uiTestTestCase.js",
+  "scripts": {
+    "start": "node ./uiTestTestCase.js"
+  },
+  "keywords": [ "webdriverjs", "selenium-webdriver", "POM", "test automation" ],
+  "author": "Dan Rusu",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}

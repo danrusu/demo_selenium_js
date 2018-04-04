@@ -1,3 +1,8 @@
+# Custom
+chromedriver.exe
+.vscode/
+
+
 # Logs
 logs
 *.log
