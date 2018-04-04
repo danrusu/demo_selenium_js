@@ -20,7 +20,7 @@
       
     [Internet Explorer](http://selenium-release.storage.googleapis.com/index.html)
 
-#### Usage - automate the login form from http://danrusu.ro/uiTest/uiTest.html
+#### Usage - automate the Authentication from http://danrusu.ro/uiTest/uiTest.html
 
     git clone https://github.com/danrusu/demo_selenium_js.git
 
