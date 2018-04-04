@@ -8,7 +8,7 @@
  
  - assert with Chai;
  
- - the used chrome driver is not included in the repository; you need to download chromedriver.exe to the project root;
+ - the chrome driver is not included in the repository; you need to download chromedriver.exe to the project root;
  
  - you can find browser drivers here:
  
