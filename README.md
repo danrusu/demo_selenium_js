@@ -2,16 +2,21 @@
 
 ### Use WebdriverJS (npm selenium-webdriver) to make a simple demo for automating web pages testing.
 
-### Design
+#### Design
 
  - use POM for web page mapping;
  
  - assert with Chai;
  
- - the Chrome webdriver si not included; you need to download it from to the project root; you can find some browser drivers here:
+ - the webdrivers are not included in the repository; you need to download it from to the project root;
  
-      [Chrome](http://chromedriver.storage.googleapis.com/index.html)
+ you can find some browser drivers here:
+ 
+ 
+    [Chrome](http://chromedriver.storage.googleapis.com/index.html)
       
-      [Firefox47+](https://github.com/mozilla/geckodriver/releases/)
+    [Firefox47+](https://github.com/mozilla/geckodriver/releases/)
       
-      [Internet Explorer](http://selenium-release.storage.googleapis.com/index.html)
+    [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_11_1.html)
+      
+    [Internet Explorer](http://selenium-release.storage.googleapis.com/index.html)
