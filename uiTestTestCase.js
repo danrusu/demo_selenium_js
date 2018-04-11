@@ -1,11 +1,11 @@
-const { Builder } = require('selenium-webdriver')
+const { Builder } = require('selenium-webdriver'),
 
   // needed POMs
-  , { uiTestPage } = require('./uiTestPage.js')
-  , { testerHomePage } = require('./testerHomePage.js')
+  { uiTestPage } = require('./uiTestPage.js'),
+  { testerHomePage } = require('./testerHomePage.js'),
 
   // assertion lib
-  , { assert } = require('chai');
+  { assert } = require('chai');
 
 
 // uiTest TEST
@@ -20,9 +20,9 @@ const { Builder } = require('selenium-webdriver')
 
       /*** Note:
       For actions on a single page this style is more concise:
-  
+
       const { navigate, sendUsername, sendPassword, login } = uiTestPage(driver);
-  
+
       await navigate();
       await sendUsername('tester');
       await sendPassword('testpass');

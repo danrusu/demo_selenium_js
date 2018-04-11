@@ -1,13 +1,13 @@
-const { By, until } = require('selenium-webdriver');
-const DEFAULT_EXPLICIT_TIMEOUT = 5000; // ms
+const { By, until } = require('selenium-webdriver'),
+  DEFAULT_EXPLICIT_TIMEOUT = 5000; // ms
 
 // uiTest POM
 const uiTestPage = driver => {
 
   // private web elements selectors
-  const username = By.id('username');
-  const password = By.id('password');
-  const loginBtn = By.id('login');
+  const username = By.id('username'),
+    password = By.id('password'),
+    loginBtn = By.id('login');
 
 
   const api = {
